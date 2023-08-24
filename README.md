@@ -33,8 +33,10 @@
 
 
 <a href="https://github.com/BrunoMonti">
-    ![GitHub followers](https://img.shields.io/github/followers/BrunoMonti?label=Follow&style=social&logo=Github)
+    ![GitHub followers](https://img.shields.io/github/followers/BrunoMonti?label=Follow&style=social)
+    
 </a>
+
 <!--
 <a href="https://stackoverflow.com/users/14958897/berkeli">
     ![StackOverflow: berkeli](https://img.shields.io/stackexchange/stackoverflow/r/14958897?style=social)
