@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Bruno Monti 👋 </h1>
 
-
 <p align="center">
     <img width="600" src="/images/IMG_1900.JPG" alt="BrunoMonti header image">
-</p>
+</p>  
+
 -------------------
 &emsp;
 <h3 align="left">Hi 👋, I'm Bruno, Oceanographer and Data Analyst based in Brazil. I have extensive experience working with GIS Data, numerical modeling to monitor the transport and dispersion of pollutants, and verting in agile environment on several projects as a Data Analyst, sometimes role playing as BI developer.</h3>
