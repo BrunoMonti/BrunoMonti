@@ -31,10 +31,11 @@
     ![Static Badge](https://img.shields.io/badge/-BrunoMtOlivera-blue?style=style%3Dflat-square&logo=Linkedin&logoColor=logoColor%3Dwhite)
 </a>
 
-<!--
+
 <a href="https://github.com/BrunoMonti">
-    ![GitHub: BrunoMonti](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
+    ![GitHub followers](https://img.shields.io/github/followers/BrunoMonti?label=Follow&style=social&logo=Github)
 </a>
+<!--
 <a href="https://stackoverflow.com/users/14958897/berkeli">
     ![StackOverflow: berkeli](https://img.shields.io/stackexchange/stackoverflow/r/14958897?style=social)
 </a>
