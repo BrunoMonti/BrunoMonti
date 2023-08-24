@@ -4,7 +4,7 @@
 
 -------------------
 &emsp;
-<h3 align="left">Hi 👋, I'm Bruno, Oceanographer and Data Analyst based in Brazil. I have extensive experience working with GIS Data, numerical modeling to monitor the transport and dispersion of pollutants, and verting   in agile environment on several projects as a full stack engineer.</h3>
+<h3 align="left">Hi 👋, I'm Bruno, Oceanographer and Data Analyst based in Brazil. I have extensive experience working with GIS Data, numerical modeling to monitor the transport and dispersion of pollutants, and verting   in agile environment on several projects as a Data Analyst, sometimes role playing as BI developer.</h3>
 &emsp;
 
 -------------------
