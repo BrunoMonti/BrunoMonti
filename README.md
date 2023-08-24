@@ -25,6 +25,32 @@
 
 ## Me around the web:
 -------------------
+
+&emsp;
+<a href="https://www.linkedin.com/in/bruno-mt-olivera/">
+    ![Static Badge](https://img.shields.io/badge/-BrunoMtOlivera-blue?style=style%3Dflat-square&logo=Linkedin&logoColor=logoColor%3Dwhite)
+</a>
+
+<!--
+<a href="https://github.com/BrunoMonti">
+    ![GitHub: BrunoMonti](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
+</a>
+<a href="https://stackoverflow.com/users/14958897/berkeli">
+    ![StackOverflow: berkeli](https://img.shields.io/stackexchange/stackoverflow/r/14958897?style=social)
+</a>
+<a href="https://www.codewars.com/users/BerkeliH">
+    ![CodeWars: BerkeliH](https://www.codewars.com/users/BerkeliH/badges/small)
+</a>
+<a href="https://www.leetcode.com/berkeli/">
+    ![LeetCode: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=LeetCode)
+</a>
+<a href="https://codepen.io/berkeli">
+    ![CodePen: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=CodePen)
+</a>
+
+&emsp;
+
+
 <!--
 **BrunoMonti/BrunoMonti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
