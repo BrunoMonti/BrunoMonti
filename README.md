@@ -33,7 +33,7 @@
 
 
 <a href="https://github.com/BrunoMonti">
-    ![GitHub followers](https://img.shields.io/github/followers/BrunoMonti?label=Follow&style=social)
+    ![GitHub: BrunoMonti](https://img.shields.io/github/followers/BrunoMonti?label=Follow&style=social)
     
 </a>
 
