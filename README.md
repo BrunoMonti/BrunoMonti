@@ -56,6 +56,7 @@ Working as a Consultant/Freelancer in Data Analytics area, helping small to medi
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Shell script](https://img.shields.io/badge/Shell_Script-121011?logo=GNU-bash&logoColor=white)
+![Google Apps Script](https://img.shields.io/static/v1?message=Google+Apps+Script&color=black&logo=Google+Apps+Script&logoColor=FFFFFF&label=)
 
 ### Data Analytics, DataViz e BI Tools:
 &emsp;
@@ -63,6 +64,11 @@ Working as a Consultant/Freelancer in Data Analytics area, helping small to medi
 ![Looker](https://img.shields.io/static/v1?message=Looker&color=4285F4&logo=Looker&logoColor=FFFFFF&label=)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?logo=metabase&logoColor=fff)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=Power%20BI&logoColor=white)
+
+### GIS Data Analytics & DataViz:
+&emsp;
+![ArcGIS](https://img.shields.io/static/v1?message=ArcGIS&color=2C7AC3&logo=ArcGIS&logoColor=FFFFFF&label=)
+![Qgis](https://img.shields.io/static/v1?message=Qgis&color=589632&logo=Qgis&logoColor=FFFFFF&label=)
 
 ### Databases:
 &emsp;
