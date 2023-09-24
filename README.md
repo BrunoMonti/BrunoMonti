@@ -17,7 +17,7 @@ Working as a Consultant/Freelancer in Data Analytics area, helping small to medi
 -------------------
 &emsp;
 
-- 🔭 I’m currently working on: **a personal project, converging my ocean/beach love with beach cleaning, in this case combining my concern for the environment and being able to do something for it, fitting or exchanging training for another physical effort with data analysis, I believe I found what they call ikigai.** 
+- 🔭 I’m currently working on: **a personal project, converging my ocean/beach love with beach cleaning, in this case combining my concern for the environment and being able to do something for it, fitting or exchanging a training-day for another physical effort, as to drag and colect waste, registering it, and well with data analysis and later DataViz. I believe I found what they call ikigai.** 
 - 📚 I'm also doing the .
 - 🤔 I’m looking for help with: **with that personal project, either with more hands on deck to drag alongside or with the DataViz.**
 
