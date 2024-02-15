@@ -17,17 +17,19 @@ Working as a Consultant/Freelancer in Data Analytics area, helping small to medi
 -------------------
 &emsp;
 
-- 🔭 I’m currently working on: **a personal project, converging my ocean/beach love with beach cleaning, in this case combining my concern for the environment and being able to do something for it, fitting or exchanging a training-day for another physical effort, as to drag and colect waste, registering it, and well with data analysis and later DataViz. I believe I found what they call ikigai.** 
+- 🔭 I’m currently working on: **a personal project, converging my ocean/beach love with beach cleaning, in this case combining my concern for the environment and being able to do something for it, fitting or exchanging a training-day for another physical effort, as to drag and colect waste, registering it, and well with data analysis and later DataViz. I believe I found what they call ikigai.** https://brunomonti.github.io/Beach_cleanup_maps/
 - 📚 I'm also doing the .
+  
 - 🤔 I’m looking for help with: **with that personal project, either with more hands on deck to drag alongside or with the DataViz.**
 
 - 🌱 I’m currently learning **Metabase Bi Tool, GEE for Urban and Coastal Management, applying data science techniques.**
+  
 - 👯 I’m looking to collaborate **on projects for strategic, business and management, creating simple solutions to complex problems, or maybe just breaking they down to small problems, give and implement fast solutions.**
+  
 - 💬 Ask me about **GIS, QGIS, ArcGIS, Python, SQL/NoSQL Databases, BI Tools, DataViz, Storytelling**
-
-
-- 📫 How to reach me: ...
-
+  
+- 📫 How to reach me: **Well in here, but you can reach me out on LinkedIn too**
+  
 - ⚡ Fun fact: **I'm colorblind, and even with that, still working by comunicating data and insights**
 &emsp;
 
