@@ -18,7 +18,7 @@ Working as a Consultant/Freelancer in Data Analytics area, helping small to medi
 &emsp;
 
 - 🔭 I’m currently working on: **a personal project, converging my ocean/beach love with beach cleaning, in this case combining my concern for the environment and being able to do something for it, fitting or exchanging a training-day for another physical effort, as to drag and colect waste, registering it, and well with data analysis and later DataViz. I believe I found what they call ikigai.** https://brunomonti.github.io/Beach_cleanup_maps/
-- 📚 I'm also doing the .
+- 📚 I'm also doing the Analysis with new data released by IBGE the census of 2022, this time IBGE released data for all visited locations with their geographic coordinates, categorizing in ways the adress locations are used, like residency, comercial purpose and others. This time opened a great box of geoanalysis, to marketing, imobiliary, etc.
   
 - 🤔 I’m looking for help with: **with that personal project, either with more hands on deck to drag alongside or with the DataViz.**
 
